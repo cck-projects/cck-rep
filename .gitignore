@@ -1,0 +1,7 @@
+/src/main/java/config.properties
+/src/main/java/Events/config.properties
+/src/main/java/SQLDatabase/config.properties
+/src/test/
+/target/
+/.idea/
+
